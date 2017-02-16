@@ -13,6 +13,7 @@
 		F2B85E7E1E43D68D007119B2 /* PangeasRepos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F2B85E7C1E43D68D007119B2 /* PangeasRepos.xcdatamodeld */; };
 		F2B85E801E43D68D007119B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2B85E7F1E43D68D007119B2 /* Assets.xcassets */; };
 		F2B85E831E43D68D007119B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2B85E811E43D68D007119B2 /* LaunchScreen.storyboard */; };
+		F2B85E8B1E43D7C0007119B2 /* Repos.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B85E8A1E43D7C0007119B2 /* Repos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2B85E7F1E43D68D007119B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2B85E821E43D68D007119B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2B85E841E43D68D007119B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2B85E8A1E43D7C0007119B2 /* Repos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Repos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				F2B85E751E43D68D007119B2 /* AppDelegate.swift */,
 				F2B85E771E43D68D007119B2 /* ViewController.swift */,
+				F2B85E8A1E43D7C0007119B2 /* Repos.swift */,
 				F2B85E791E43D68D007119B2 /* Main.storyboard */,
 				F2B85E7F1E43D68D007119B2 /* Assets.xcassets */,
 				F2B85E811E43D68D007119B2 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				F2B85E7E1E43D68D007119B2 /* PangeasRepos.xcdatamodeld in Sources */,
 				F2B85E781E43D68D007119B2 /* ViewController.swift in Sources */,
 				F2B85E761E43D68D007119B2 /* AppDelegate.swift in Sources */,
+				F2B85E8B1E43D7C0007119B2 /* Repos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
